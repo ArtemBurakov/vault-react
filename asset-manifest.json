@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/vault/static/css/main.1a6cd240.css",
-    "main.js": "/vault/static/js/main.2c0d6559.js",
-    "index.html": "/vault/index.html",
-    "main.1a6cd240.css.map": "/vault/static/css/main.1a6cd240.css.map",
-    "main.2c0d6559.js.map": "/vault/static/js/main.2c0d6559.js.map"
+    "main.css": "/vault-react/static/css/main.1a6cd240.css",
+    "main.js": "/vault-react/static/js/main.2c0d6559.js",
+    "index.html": "/vault-react/index.html",
+    "main.1a6cd240.css.map": "/vault-react/static/css/main.1a6cd240.css.map",
+    "main.2c0d6559.js.map": "/vault-react/static/js/main.2c0d6559.js.map"
   },
   "entrypoints": [
     "static/css/main.1a6cd240.css",
